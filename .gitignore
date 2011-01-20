@@ -1,0 +1,10 @@
+# Visual studio files
+*.suo
+*.*proj.user
+bin/
+obj/
+
+# Mono files
+*.pidb
+*.userprefs
+

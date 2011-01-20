@@ -1,0 +1,3 @@
+- OrderBy and ThenBy methods
+- Cleanup
+- Short circuit some ops if possible
